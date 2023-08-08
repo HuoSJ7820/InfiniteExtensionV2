@@ -1,0 +1,2 @@
+# InfiniteExtensionV2
+无尽扩展为原来的无尽贪婪附属添加了更多物品
